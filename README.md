@@ -42,5 +42,5 @@ Scan the QR code with Expo Go (Android) to run the app.
 I used Claude (Anthropic) as a guided coding assistant throughout development — to help plan the screen structure, explain React Native/Expo Router/TypeScript concepts as I learned them, write and debug component code, and structure this README. I reviewed, typed, tested, and can explain all the code in this project myself.
 
 ## Deliverables
-- GitHub repository: <your-repo-link>
-- Google Drive folder (APK, screenshots, video): <your-drive-link>
+- GitHub repository: [<your-repo-link>](https://github.com/IstiakNabil/GetInsiderPulse)
+- Google Drive folder (APK, screenshots, video): https://drive.google.com/drive/folders/13brOkiYEHDAfmjoIL9uHdjiG7aieYhpf?usp=drive_link
